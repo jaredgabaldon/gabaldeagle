@@ -1,6 +1,20 @@
-# gabaldeagle
-website for personal portfolio
+# Jared Gabaldon Portfolio
 
-Quick change
+Personal portfolio website built with Astro.
 
-Another
+Live site: https://yourdomain.com
+
+## Tech Stack
+
+- Astro
+- TailwindCSS
+- Node.js
+
+## Local Development
+
+npm install
+npm run dev
+
+## Build
+
+npm run build
